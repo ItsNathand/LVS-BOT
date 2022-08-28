@@ -7,5 +7,5 @@ node_modules
 !.env.example
 .output
 /creds.js
-/.replit
-/.replit.nix
+/replit
+/replit.nix
